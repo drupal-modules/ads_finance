@@ -1,4 +1,4 @@
-ads_finance
+ads_animals
 ===========
 
-Provides common Finance features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
