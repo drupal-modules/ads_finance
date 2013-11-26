@@ -1,9 +1,19 @@
 name = Ads Finance
+<<<<<<< HEAD
 description = Provides common Finance features for Ads distribution
 core = 7.x
 package = ADS Finance
+=======
+description = Provides common Animal features for Ads distribution
+core = 7.x
+package = Ads
+>>>>>>> 5f47893f80229f2dd44a24c8694cb65f7f0c2ea8
 version = 7.x-1.0
 project = ads_finance
 dependencies[] = ads_taxonomy
 features[features_api][] = api:1
+<<<<<<< HEAD
 files[] = ads_finance.module
+=======
+files[] = ads_finance.module
+>>>>>>> 5f47893f80229f2dd44a24c8694cb65f7f0c2ea8
