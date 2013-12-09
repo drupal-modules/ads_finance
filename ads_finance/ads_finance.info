@@ -1,7 +1,7 @@
 name = Ads Finance
-description = Provides common Finance features for Ads distribution
+description = Provides common Animal features for Ads distribution
 core = 7.x
-package = ADS Finance
+package = Ads
 version = 7.x-1.0
 project = ads_finance
 dependencies[] = ads_taxonomy
